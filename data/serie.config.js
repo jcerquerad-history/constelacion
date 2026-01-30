@@ -1,21 +1,23 @@
 const config = {
   "lang": "es",
   "localPort": "5173",
-  "base": "https://srsergiorodriguez.github.io",
-  "baseurl": "/serie-mini",
-  "title": "Serie Mini",
-  "subtitle": "Un sistema para mini colecciones digitales",
-  "credits": "Por Sergio Rodríguez Gómez",
-  "copyright": "Todos los derechos reservados, 2024",
-  "logos": [
-    {img: "logos/logo.png", link: "https://github.com/srsergiorodriguez/serie-mini"}
-  ],
+  "base": "https://jcerquerad-history.github.io",
+  "baseurl": "/constelacion",
+  "title": "Constelación de Imágenes",
+  "subtitle": "Constelación de imágenes para una interpretación de la identidad nacional: 1920 – 1940 ",
+  "credits": "Javier Cerquera D.",
+  "copyright": "2026",
   "pages": {
     "iiifViewer": true,
     "metadataToShow": [
       {
         "key": "label",
-        "label": "Nombre",
+        "label": "Label",
+        "type": "text"
+      },
+      {
+        "key": "fecha",
+        "label": "Fecha",
         "type": "text"
       },
       {
@@ -24,15 +26,21 @@ const config = {
         "type": "text"
       },
       {
-        "key": "fecha",
-        "label": "Fecha",
+        "key": "ciudad",
+        "label": "Ciudad",
+        "type": "text"
+      },
+      {
+        "key": "descripcion",
+        "label": "Descripcion",
         "type": "text"
       }
     ],
     "metadataToIndex": [
-      "label",
+      "fecha",
       "autor",
-      "fecha"
+      "ciudad",
+      "descripcion"
     ]
   }
 };

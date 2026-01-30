@@ -1,5 +1,10 @@
-pid,label,autor,fecha
-AdriaenCollaert,America Tortuga,Adriaen Collaert,1586
-JohannSadeler,America Loro,Johann Sadeler,1581
-PhilipsGalle,America Composición,Philips Galle,1547
-PhilipsGalle2,America Cabeza,Philips Galle,1585
+pid,label,fecha,autor,ciudad,descripcion
+conscamm01,Cable Aéreo Manizalez - Mariquita,1925,Tomada de El Quindiano,Manizalez,"Los personajes de la foto son James Lindsay, el director de la obra, y su hija, sobre la cordillera central rumbo a Mariquita, Tolima. Foto década de 1920"
+conshsb02,Hangar Scadta Barranquilla,1920,Fondo Nereo López - BNC,Barranquilla,Vista del hangar de la Sociedad Colombo Alemana de Transporte Aéreo - Scadta ubicada en Barranquilla. Foto fecha aprox
+conscago03,Cable Aéreo Gamarra - Ocaña,1928,Desconocido,Ocaña,"Panorámica del antiguo cable que conectaba los municipios Gamarra, Aguachica, Río de Oro y Ocaña para transporte de carga y pasajeros."
+conschj4004,Hangar Junkers,1940,Tito Julio Celis,Bogotá,"Hangar Junkers instalado en el Cantón Norte en Bogotá, para la creación de la Escuela de Motorización fundada en 1937."
+conshj1905,Hangar Junkers - Cuna de los Blindados,2019,Diana Pérez,Bogotá,Antigua sede del Grupo de Caballería Mecanizado General Ramón Arturo Rincón Quiñones. Cantón Norte de Bogotá.
+consst2506,SCADTA - Vuelo Bajada viernes - sábado,1925,Scadta,Barranquilla,Tarifas y rutas publicadas por SCADTA en 1925
+conshpp07,Hangar Palanquero - visita presidencial,1933,Fondo General Luis Acevedo UN,Puerto Salgar,Inauguración Base de Palanquero por el presidente Enrique Olaya Herrera. Fecha estimada 1933
+conshpt08,Hangares nacionales de Palanquero. Foto 5.,1933,Gumersindo Cuéllar - BLAA,Puerto Salgar,"Hangar Junkers de la Base de Palanquero de la Fuerza Aérea, instalado en 1933 como parte del plan de fortalecimiento de las Fuerzas Militares."
+consha09,Hidroavión,1933,Carlos Camacho,Leticia,"Hidroavión en Leticia sobre el río Amazonas, como consecuencia del ejercicio de soberanía producto del conflicto colombo-peruano."

@@ -1,0 +1,15 @@
+{
+  "id": "https://jcerquerad-history.github.io/constelacion/iiif/conshj1905/manifest/image-0.json",
+  "items": [],
+  "type": "Annotation",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "motivation": "painting",
+  "target": "https://jcerquerad-history.github.io/constelacion/iiif/conshj1905/manifest/canvas-0.json",
+  "body": {
+    "id": "https://jcerquerad-history.github.io/constelacion/iiif/conshj1905/0/full/max/0/default.jpg",
+    "type": "Image",
+    "format": "image/jpeg",
+    "height": 821,
+    "width": 1430
+  }
+}
