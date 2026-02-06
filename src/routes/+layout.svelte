@@ -10,8 +10,8 @@
   :global(:root){
     --stroke: black; /* Font color */
     --fill: #fdfcfa; /* Background color */
-    --accent1: #c9e2ef; /* Main color */
-    --accent2: #0b456c; /* Higlights color */
+    --accent1: #000000; /* Main color */
+    --accent2: #FB8500; /* Higlights color */
     --mainfont: "Lato", sans-serif;
     --headerfont: "Lato", sans-serif;
     font-family: var(--mainfont);
